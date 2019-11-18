@@ -1,9 +1,16 @@
-GIMP    = .xcf files made using GIMP 2.10 in Ubuntu
-Labels  = individual labels with each on an 8.5 x 11 inch (A4) background
+# DIL Chip Labels
 
-BenEaters6502/8b-BC   = All the labels for Ben's 6502 and 8 Bit Breadboard Computer project thus far.
+Copyright 2019 Jake Little
 
-Note: you may need to try different PDF viewers and print settings to get these to print right. I use the default “Document Viewer” that came with Lubuntu. I have tried printing from Firefox, Ocular, and GIMP directly. With the A4 sized background I get good print results from most. Without the A4 sized background the Document Viewer is the only one that prints at the correct size. I am using the same print tools I use for ink transfers when I'm etching PCB's.
+These files and original documents are [MIT licensed](http://en.wikipedia.org/wiki/MIT_License).
+
+##What's Here
+ - *GIMP*   .xcf files made using GIMP 2.10 in Ubuntu (these contain many more labels than have been extracted to PDFs)
+ - *Labels*   Individual labels with each on an 8.5 x 11 inch (A4) background
+ - *BenEaters6502/8b-BC*   All the labels for Ben's 6502 and 8 Bit Breadboard Computer project thus far.
+
+##Notes 
+    You may need to try different PDF viewers and print settings to get these to print right. I use the default “Document Viewer” that came with Lubuntu. I have tried printing from Firefox, Ocular, and GIMP directly. With the A4 sized background I get good print results from most. Without the A4 sized background the Document Viewer is the only one that prints at the correct size. I am using the same print tools I use for ink transfers when I'm etching PCB's.
   I cut these out, and glue them on with stick-type school glue. It holds but is easy to clean off too. The best looking results I have achieved were done using HP brand photo paper designed for toner printers, but used in a laser printer. This paper also sticks to the chip better. I use standard printer paper most of the time though.
 
  Inside the GIMP  standard .xcf file there are more labels that I did not include in PDF form. These are an older style from back when I made labels with the text facing the pins on each side. Now I make all text face the same side.
