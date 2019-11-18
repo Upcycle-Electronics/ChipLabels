@@ -5,11 +5,11 @@ Copyright 2019 Jake Little
 These files and original documents are [MIT licensed](http://en.wikipedia.org/wiki/MIT_License).
 
 ## What's Here
- - *GIMP*   .xcf files made using GIMP 2.10 in Ubuntu (these contain many more labels than have been extracted to PDFs)
- - *Labels*   Individual labels with each on an 8.5 x 11 inch (A4) background
- - *BenEaters6502/8b-BC*   All the labels for Ben's 6502 and 8 Bit Breadboard Computer project thus far.
+ - _*GIMP*_   .xcf files made using GIMP 2.10 in Ubuntu (these contain many more labels than have been extracted to PDFs)
+ - _*Labels*_   Individual labels with each on an 8.5 x 11 inch (A4) background
+ - _*BenEaters6502/8b-BC*_   All the labels for Ben's 6502 and 8 Bit Breadboard Computer project thus far.
  
- <img src="https://raw.githubusercontent.com/Upcycle-Electronics/ChipLabels/master/example-labels.jpg" width="100" height="100">
+ <img src="https://raw.githubusercontent.com/Upcycle-Electronics/ChipLabels/master/example-labels.jpg" width="500">
 
 ## Notes 
 
