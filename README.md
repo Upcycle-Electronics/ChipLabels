@@ -9,7 +9,7 @@ These files and original documents are [MIT licensed](http://en.wikipedia.org/wi
  - *Labels*   Individual labels with each on an 8.5 x 11 inch (A4) background
  - *BenEaters6502/8b-BC*   All the labels for Ben's 6502 and 8 Bit Breadboard Computer project thus far.
  
- ![test image size](https://raw.githubusercontent.com/Upcycle-Electronics/ChipLabels/master/example-labels.jpg){:class="img-responsive"}
+ <img src="https://raw.githubusercontent.com/Upcycle-Electronics/ChipLabels/master/example-labels.jpg" width="100" height="100">
 
 ## Notes 
 
