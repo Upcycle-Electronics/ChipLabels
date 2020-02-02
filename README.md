@@ -2,17 +2,27 @@
 <img src="https://raw.githubusercontent.com/Upcycle-Electronics/ChipLabels/master/LS-labels.jpg" height="200">
 
 
-# DIL Chip Labels
+# DIP Chip Labels
 
-Copyright 2020 Jake Little
-These files and original documents are [MIT licensed](http://en.wikipedia.org/wiki/MIT_License).
+* Copyright 2020 Jake Little
+* These files and original documents are [MIT licensed](http://en.wikipedia.org/wiki/MIT_License).
 
-## What's Here
+## What's in the Folders
  - _*GIMP*_   .xcf files from GIMP 2.10 in Ubuntu
  - _*Labels - Ready to Print PDF's*_   Individual PDF files for each label on an 8.5 x 11 inch background
  - _*BenEaters6502/8b-BC*_   All the labels for Ben's 6502 and 8 Bit Breadboard Computer project thus far.
  
  <img src="https://raw.githubusercontent.com/Upcycle-Electronics/ChipLabels/master/example-labels.jpg" width="500">
+ 
+## Significant Updates
+
+* _*2020.2.2*_ 
+  - Created "Significant Updates"
+  - Revised DIPwideMAIN.xcf with a similar hierarchical layer structure as DIPstandardMAIN.xcf
+  - Added a vertical FAB guide layer to DIPwideMAIN.xcf and expanded the Custom Q/Gates/Truth Tables copied from standardMain.xcf
+  - Created new standardized 24, 28, 32, 40, and 48 pin blank frame templates
+  - Listed the text settings I'm currently using in a layer called The Standard Standard
+  - Created a '_TEN PDF with all Zilog Z80 CPU's and added a new Zilog folder to the premade PDF labels posted here.
  
 ## Document Viewers 
 
