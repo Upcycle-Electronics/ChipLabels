@@ -16,6 +16,10 @@
  
 ## Significant Updates
 
+* _*2020.3.5*_ 
+  - Updated all (except Motorola) old wide labels to the new template version.
+  - New chips added: MSM80C85, MSM81C55, HM6116, NMC27C32, CAT28C256, CAT28C16, G65SC02
+
 * _*2020.15.2*_ 
   - Added Readme entry (end) with a list of all chips that have PDF's made already
   - New chips added: MC144111, IS61C1024, CA723, MAX202, DAC800, DAC0808
@@ -52,6 +56,7 @@
 
 These are all made in GIMP and is the hierarchal order they are roughly listed as layers.
 
+    (AS OF Feb 20)
     1.) 74HC00
     2.) 74HC02
     3.) 74HC04
@@ -256,3 +261,22 @@ These are all made in GIMP and is the hierarchal order they are roughly listed a
     202.) MIC2981
     203.) SN754410
     204.) ULN2003
+    
+    205.) MAX512
+    206.) MAX513
+    
+    207.) KID65783
+    208.) PT2262
+    209.) PT2272
+    210.) MAX7221
+    211.) TD62084
+    212.) XR2240
+    
+    213.) MSM80C85
+    214.) MSM81C55
+    215.) HM6116
+    216.) NMC27C32
+    217.) CAT28C256
+    218.) CAT28C16
+    219.) G65SC02
+    

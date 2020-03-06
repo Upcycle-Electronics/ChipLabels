@@ -1,6 +1,6 @@
 There are 3 versions below. It is the same list just organized by technology/family, date, and manufacturer.
 
-###By Logic type & family:
+### By Logic type & family:
 
 * CMOS -  ABT/LVT [Texas Inst. - 1993](https://archive.org/details/bitsavers_tidataBook_80793740)
 * CMOS -  ACT [Motorola - 1988](https://archive.org/details/bitsavers_motoroladaFACTData_13491338)
